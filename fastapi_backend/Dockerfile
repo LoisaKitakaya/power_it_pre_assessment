@@ -27,4 +27,4 @@ COPY . .
 EXPOSE 8000
 
 # Run Uvicorn with single worker for synchronous endpoints
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "4", "--no-server-header"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "1", "--no-server-header"]
