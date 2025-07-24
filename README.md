@@ -9,14 +9,6 @@ The project is split into two repositories:
 - **Backend**: FastAPI-based API for processing queries and generating recipes.
 - **Frontend**: Next.js-based interface for submitting queries and displaying responses.
 
-## Live Links
-
-**Backend live link:** [check here](https://fastapi-backend-0mb9.onrender.com/)
-  - **NOTE:** I am using free tier in [Render](https://render.com/) to deploy my backend, so the Docker container might take a while to start.
-
-**Frontend live link:** [check here](https://nextjs-frontend-ochre.vercel.app/)
-  - **NOTE:** For a better experience, wait for the backend service to start before making requests in the frontend.
-
 ## Repositories
 
 - **Backend Repository**: [fastapi_backend](https://github.com/LoisaKitakaya/fastapi_backend)
@@ -27,6 +19,16 @@ The project is split into two repositories:
   - Contains the Next.js application with , DaisyUI styling, and `react-hot-toast` for notifications.
 
 **Instructor Note**: Please review the `README.md` files in the backend and frontend repositories for detailed setup instructions, project structure, and usage examples specific to each component.
+
+## Live Links
+
+**Backend live link:** [check here](https://fastapi-backend-0mb9.onrender.com/)
+
+- **NOTE:** I am using free tier in [Render](https://render.com/) to deploy my backend, so the Docker container might take a while to start.
+
+**Frontend live link:** [check here](https://nextjs-frontend-ochre.vercel.app/)
+
+- **NOTE:** For a better experience, wait for the backend service to start before making requests in the frontend.
 
 ## Features
 
