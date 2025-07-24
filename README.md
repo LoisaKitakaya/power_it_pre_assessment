@@ -11,6 +11,8 @@ The project is split into two repositories:
 
 ## Repositories
 
+**NOTE:** These repositories contain the source code with all the git commits.
+
 - **Backend Repository**: [fastapi_backend](https://github.com/LoisaKitakaya/fastapi_backend)
   - **README**: [README.md](https://github.com/LoisaKitakaya/fastapi_backend/blob/main/README.md)
   - Contains the FastAPI application with, Pydantic models, and Gemini AI integration.
