@@ -9,7 +9,13 @@ The project is split into two repositories:
 - **Backend**: FastAPI-based API for processing queries and generating recipes.
 - **Frontend**: Next.js-based interface for submitting queries and displaying responses.
 
-This repository serves as the entry point for the instructor, providing an overview and links to the backend and frontend repositories, which contain detailed `README.md` files and source code with all the git commits.
+## Live Links
+
+**Backend live link:** [check here](https://fastapi-backend-0mb9.onrender.com/)
+  - **NOTE:** I am using free tier in [Render](https://render.com/) to deploy my backend, so the Docker container might take a while to start.
+
+**Frontend live link:** [check here](https://nextjs-frontend-ochre.vercel.app/)
+  - **NOTE:** For a better experience, wait for the backend service to start before making requests in the frontend.
 
 ## Repositories
 
