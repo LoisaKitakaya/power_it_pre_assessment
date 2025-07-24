@@ -9,7 +9,7 @@ The project is split into two repositories:
 - **Backend**: FastAPI-based API for processing queries and generating recipes.
 - **Frontend**: Next.js-based interface for submitting queries and displaying responses.
 
-This repository serves as the entry point for the instructor, providing an overview and links to the backend and frontend repositories, which contain detailed `README.md` files and source code.
+This repository serves as the entry point for the instructor, providing an overview and links to the backend and frontend repositories, which contain detailed `README.md` files and source code with all the git commits.
 
 ## Repositories
 
